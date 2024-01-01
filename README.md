@@ -16,3 +16,9 @@ Ortho:
 с т н в м я к о и е
 ш з л д ч й п ь у ю
 ```
+
+## Installation
+1. Insert content of =evdev.xml= into <variantList> of ru layout at /usr/share/X11/xkb/rules/evdev.xml
+2. Insert content of =xkb_symbols_ru= to the bottom of /usr/share/X11/xkb/symbols/ru
+3. ???
+4. PROFIT!
